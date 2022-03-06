@@ -4,3 +4,5 @@ Displays a popup on your site (ONLY if being visited from Russia/Ukraine/Belarus
 Just include this javascript code on your website to display.
 
 Solidarity.
+
+☮️❤️
